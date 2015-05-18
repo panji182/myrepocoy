@@ -1,1 +1,3 @@
 Hello My Name is Panji M, i tried to using git....
+
+My Name panji
